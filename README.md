@@ -29,7 +29,7 @@ In this repository, you'll find:
 
 As new articles are published on [Infinite Variance](https://www.infinite-variance.com/), additional folders will be added to this repository. Each new folder will contain the code and readme file corresponding to the latest article, allowing you to stay up-to-date with the ongoing exploration of narrative structures.
 
-## Connect With Us
+## Connect With Me
 
 - **Website:** [Infinite Variance](https://www.infinite-variance.com/)
 - **GitHub:** [Infinite Variance Repository](https://github.com/sbansal-21/InfiniteVariance)
@@ -42,4 +42,4 @@ This repository is licensed under the MIT License. See the LICENSE file for more
 
 ---
 
-Thank you for visiting the Infinite Variance repository! Whether you're a mathematician, storyteller, or just curious about the intersection of these fields, we hope you find this project as fascinating as we do.
+Thank you for visiting the Infinite Variance repository! Whether you're a mathematician, storyteller, or just curious about the intersection of these fields, we hope you find this project as fascinating as I do.
