@@ -10,7 +10,7 @@ The code provided in this repository includes functions to plot the Probability 
 
 ### Files
 
-- **`plot_binomial_pmf.py`**: This script contains functions to generate and plot the PMF of a binomial distribution for given parameters.
+- **`Binary Outcomes, Risk Aversion, and Sorites Paradox.ipynb`**: This script contains functions to generate and plot the PMF of a binomial distribution for given parameters.
 
 ### Usage
 
